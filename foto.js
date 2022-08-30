@@ -83,8 +83,3 @@ function closeImg() {
 	document.getElementById('content').classList.remove('d-none');
 	render();
 }
-
-function save() {
-	let imagesAsText = JSON.stringify(images);
-	localStorage.setItem('images', imagesAsText);
-}

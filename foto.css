@@ -70,11 +70,9 @@ h1 {
 	opacity: 0.8;
 	cursor: pointer;
 	box-shadow: 2px 8px 10px 8px #2e2d2d;
-    
+    cursor: pointer
 }
-img:hover {
-	cursor: pointer;
-}
+
 a {
 	color: #541c1c;
 }
